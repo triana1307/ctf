@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 import sys, getopt, socket
 BUFFER_SIZE = 2048
 port=9999
